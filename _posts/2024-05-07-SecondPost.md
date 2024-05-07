@@ -1,6 +1,6 @@
 ---
-title: 첫번째 글 테스트 
-date: 2024.05.07 10:51:00 +09:00
+title: 두번째 글 테스트 
+date: 2024.05.07 11:03:00 +09:00
 categories: [blog]
 tags: 
     [ blog]
